@@ -4,7 +4,7 @@ This project processes input images through a custom pipeline for filtering and 
 
 ---
 
-## 🛠Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the repository
 
